@@ -1,0 +1,9 @@
+INFO	2022-09-11 11:33:15,330	[logger.py:37]	hello world
+INFO	2022-09-11 11:36:58,443	[web_page.py:24]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 11:44:41,171	[login_page.py:23]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 11:54:49,097	[login_page.py:24]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 11:58:43,462	[login_page.py:24]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 12:07:28,255	[login_page.py:24]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 12:30:58,655	[login_page.py:23]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 12:32:56,225	[login_page.py:23]	打开网页：https://fund.eastmoney.com/
+INFO	2022-09-11 12:34:31,250	[login_page.py:23]	打开网页：https://fund.eastmoney.com/
